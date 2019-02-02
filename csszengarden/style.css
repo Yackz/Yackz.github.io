@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body{
+	background-image: url(bg.jpg);
+	background-size: cover;
+
+}
+
+
+.banner{
+	height: 60px;
+}
+
+h1{
+	font-family: 'Josefin+Sans', cursive;
+	font-size: 40px;
+	word-spacing:5px;
+	text-align: center;
+	text-shadow: 3px 2px brown;
+	border-style: dashed;
+	border-width: 5px;
+	animation-name: animationrainbow;
+  	animation-duration: 6s;
+  	background-color: #eaa795;
+
+}
+
+@keyframes animationrainbow{
+  0%   {background-color: red;}
+  16%  {background-color: orange;}
+  32%  {background-color: yellow;}
+  48% {background-color: lightgreen;}
+  64%   {background-color: skyblue;}
+  80%  {background-color: blue;}
+  100%  {background-color: darkblue;}
+  
+}
+
+h2{
+	font-family: 'Montserrat', cursive;
+	font-size: 32px;
+	font-weight: bold;
+	font-style: italic;
+	word-spacing: 5px;
+	text-decoration: underline;
+	color: red;
+	text-shadow: 3px 3px lightgrey;
+	margin-left: 60px;
+}
+
+.summary{
+	margin-left: 150px;
+
+}
+
+.summary > p{
+	font-size: 24px;
+	margin-right: 25px;
+	text-indent: 30px;
+	line-height : 1.5;
+	margin-top: 10px;
+}
+
+.sidebar{
+	position: absolute;
+	top: 350px;
+	width: 210px;
+	left: 0px;
+	margin-left: 20px;
+	border: 2px dashed red;
+	border-width: 5px;
+	border-radius: 8px;
+}
+
+.select,.archives,.resources {
+	font-family: 'Montserrat', cursive;
+	font-size: 22px;
+	padding-left: 10px;
+	color: #81a986;
+}
+
+a{
+	line-height : 1.5;
+}
+
+.preamble, .supporting{
+	margin-right: 20px;
+	margin-left: 255px;
+}
+
+h3{
+	font-family: 'Montserrat', cursive;
+	font-size: 32px;
+
+}
+
+p{
+	line-height: 1.5;
+	font-size: 18px;
+	text-indent: 30px;
+
+}
+
+.preamble > h3,.explanation >h3,.participation > h3,.benefits > h3,.requirements > h3{
+	width: 470px;
+	border: 2px dashed red;
+  	border-radius: 5px;
+  	color: #dacb5e;
+  	text-shadow: 3px 3px black;
+
+}
+
+.explanation >h3{
+	width: 396px;
+}
+
+.participation > h3{
+	width: 230px;
+}
+
+.benefits > h3{
+	width: 155px;
+}
+
+.requirements > h3{
+	width: 250px;
+}
+
+footer{
+	text-align: center;
+}
