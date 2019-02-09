@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body{
+    background-image: linear-gradient(to right, #e4afcb 0%, #b8cbb8 0%, #b8cbb8 0%, #e2c58b 30%, #c2ce9c 64%, #7edbdc 100%);
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: red;
+    word-spacing:5px;
+    text-shadow: 3px 2px brown;
+    border-style: dashed;
+	border-width: 5px;
+	animation-name: animationrainbow;
+  	animation-duration: 6s;
+  	background-color: #eaa795;
+}
+
+@keyframes animationrainbow{
+    16%  {background-color: orange;}
+    32%  {background-color: yellow;}
+    48% {background-color: lightgreen;}
+    64%   {background-color: skyblue;}
+    80%  {background-color: blue;}
+    100%  {background-color: darkblue;}
+    
+  }
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    color: orangered;
+}
+
+h3{
+    text-align: center;
+    font-size: 42px;
+}
+
+.link{
+    text-align: center;
+    font-size: 34px;
+}
+
+.table{
+    text-align: center;
+    font-size: 22px;
+}
+
+ #input-text{
+    width: 400px;
+    
+}
+
+/* #submit-btn{
+    margin-left: 50px;
+}  */
+
+.bottom{
+    border: 2px dashed red;
+    border-width: 5px;
+    font-family:'Montserrat', cursive;
+}
+
+.table{
+    font-family:'Montserrat', cursive;
+    font-size: 28px;
+}
+.advanced{
+    font-size: 30px;
+}
+
+#gender-btn{
+    margin-left: 350px;
+}

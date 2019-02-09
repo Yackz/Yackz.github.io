@@ -1,0 +1,346 @@
+[
+	{
+		"name": "David",
+        "lastname": "De Gea",
+        "gender": "Male",
+        "position": "Goalkeeper",
+        "number": "1",
+        "country": "Spain"       
+	},
+	{
+		"name": "Lee",
+        "lastname": "Grant",
+        "gender": "Male",
+        "position": "Goalkeeper",
+        "number": "13",
+        "country": "England"     
+	},
+	{
+		"name": "Sergio",
+        "lastname": "Romero",
+        "gender": "Male",
+        "position": "Goalkeeper",
+        "number": "22",
+        "country": "Argentina"     
+	},
+	{
+		"name": "Joel",
+        "lastname": "Pereira",
+        "gender": "Male",
+        "position": "Goalkeeper",
+        "number": "40",
+        "country": "Portugal"     
+	},
+	{
+		"name": "Chris",
+        "lastname": "Smalling",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "12",
+        "country": "England"     
+	},
+	{
+		"name": "Victor",
+        "lastname": "Lindelof",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "2",
+        "country": "Sweden"     
+	},
+	{
+		"name": "Eric",
+        "lastname": "Bailly",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "3",
+        "country": "Ivory Coast"     
+	},
+	{
+		"name": "Phil",
+        "lastname": "Jones",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "4",
+        "country": "England"     
+	},
+	{
+		"name": "Marcos",
+        "lastname": "Rojo",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "16",
+        "country": "Argentina"     
+	},
+	{
+		"name": "Ashley",
+        "lastname": "Young",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "18",
+        "country": "England"     
+	},
+	{
+		"name": "Diogo",
+        "lastname": "Dalot",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "20",
+        "country": "Portugal"     
+	},
+	{
+		"name": "Luke",
+        "lastname": "Shaw",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "23",
+        "country": "England"     
+	},
+	{
+		"name": "Tim",
+        "lastname": "Fosu-Mensah",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "24",
+        "country": "Netherlands"     
+	},
+	{
+		"name": "Antonio",
+        "lastname": "Valencia",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "25",
+        "country": "Ecudor"     
+	},
+	{
+		"name": "Matteo",
+        "lastname": "Darmian",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "36",
+        "country": "Italy"     
+	},
+	{
+		"name": "Axel",
+        "lastname": "Tuanzebe",
+        "gender": "Male",
+        "position": "Defender",
+        "number": "38",
+        "country": "England"     
+	},
+	{
+		"name": "Paul",
+        "lastname": "Pogba",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "6",
+        "country": "France"     
+	},
+	{
+		"name": "Juan",
+        "lastname": "Mata",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "8",
+        "country": "Spain"     
+	},
+	{
+		"name": "Jesse",
+        "lastname": "Lingard",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "14",
+        "country": "England"     
+	},
+	{
+		"name": "Andreas",
+        "lastname": "Rereira",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "15",
+        "country": "Brazil"     
+	},
+	{
+		"name": "Fred",
+        "lastname": "Rodrigues",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "17",
+        "country": "Brazil"     
+	},
+	{
+		"name": "Ander",
+        "lastname": "Herrera",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "21",
+        "country": "Spain"     
+	},
+	{
+		"name": "Nemanja",
+        "lastname": "Matic",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "31",
+        "country": "Serbia"     
+	},
+	{
+		"name": "Scott",
+        "lastname": "Mctominay",
+        "gender": "Male",
+        "position": "Midfielder",
+        "number": "39",
+        "country": "Scotland"     
+	},
+	{
+		"name": "Alexis",
+        "lastname": "Sanchez",
+        "gender": "Male",
+        "position": "Forward",
+        "number": "7",
+        "country": "Chile"     
+	},
+	{
+		"name": "Romelu",
+        "lastname": "Lukaku",
+        "gender": "Male",
+        "position": "Forward",
+        "number": "9",
+        "country": "Belgium"     
+	},
+	{
+		"name": "Marcus",
+        "lastname": "Rashford",
+        "gender": "Male",
+        "position": "Forward",
+        "number": "10",
+        "country": "England"     
+	},
+	{
+		"name": "Anthony",
+        "lastname": "Martial",
+        "gender": "Male",
+        "position": "Forward",
+        "number": "11",
+        "country": "France"     
+	},
+	{
+		"name": "Siobhan",
+        "lastname": "Chamberlain",
+        "gender": "Female",
+        "position": "Goalkeeper",
+        "number": "1",
+        "country": "England"     
+	},
+	{
+		"name": "Emily",
+        "lastname": "Ramsey",
+        "gender": "Female",
+        "position": "Goalkeeper",
+        "number": "13",
+        "country": "England"     
+	},
+	{
+		"name": "Fran",
+        "lastname": "Bentley",
+        "gender": "Female",
+        "position": "Goalkeeper",
+        "number": "22",
+        "country": "England"     
+	},
+	{
+		"name": "Martha",
+        "lastname": "Harris",
+        "gender": "Female",
+        "position": "Defender",
+        "number": "2",
+        "country": "England"     
+	},
+	{
+		"name": "Alex",
+        "lastname": "Greenwood",
+        "gender": "Female",
+        "position": "Defender",
+        "number": "3",
+        "country": "England"     
+	},
+	{
+		"name": "Amy",
+        "lastname": "Turner",
+        "gender": "Female",
+        "position": "Defender",
+        "number": "4",
+        "country": "England"     
+	},
+	{
+		"name": "Naomi",
+        "lastname": "Hartley",
+        "gender": "Female",
+        "position": "Defender",
+        "number": "12",
+        "country": "England"     
+	},
+	{
+		"name": "Aimee",
+        "lastname": "Palmer",
+        "gender": "Female",
+        "position": "Midfielder",
+        "number": "6",
+        "country": "England"     
+	},
+	{
+		"name": "Mollie",
+        "lastname": "Green",
+        "gender": "Female",
+        "position": "Midfielder",
+        "number": "8",
+        "country": "England"     
+	},
+	{
+		"name": "Katie",
+        "lastname": "Zelem",
+        "gender": "Female",
+        "position": "Midfielder",
+        "number": "10",
+        "country": "England"    
+	},
+	{
+		"name": "Charlie",
+        "lastname": "Devlin",
+        "gender": "Female",
+        "position": "Goalkeeper",
+        "number": "14",
+        "country": "England"     
+	},
+	{
+		"name": "Ella",
+        "lastname": "Toone",
+        "gender": "Female",
+        "position": "Forward",
+        "number": "7",
+        "country": "England"     
+	},
+	{
+		"name": "Jess",
+        "lastname": "Sigsworth",
+        "gender": "Female",
+        "position": "Forward",
+        "number": "9",
+        "country": "England"     
+	},
+	{
+		"name": "Leah",
+        "lastname": "Galton",
+        "gender": "Female",
+        "position": "Forward",
+        "number": "11",
+        "country": "England"     
+	},
+	{
+		"name": "Lizzie",
+        "lastname": "Arnot",
+        "gender": "Female",
+        "position": "Forward",
+        "number": "17",
+        "country": "Scotland"     
+	}
+]

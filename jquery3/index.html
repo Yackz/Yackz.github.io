@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Manchester United</title>
+    <link rel="stylesheet" href="bulma-0.7.2/css/bulma.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    
+
+</head>
+<body>
+    <section class="section">
+    <div class="container">
+        <h1>Manchester United</h1>
+        <div class="level">
+                <br> <br>
+            <div class="level-item">    
+                <div class="field is-horizontal">
+                    <div class="field-body">
+                        <div class="field">
+                        <p class="control">
+                            <input  class="input is-rounded" 
+                                    type="text" id="input-text"
+                                    placeholder="Manchester United Players">
+                        </p>
+                        </div>
+
+                        <div class="control">
+                            <button id="submit-btn" class="button is-primary">
+                                Search
+                            </button>
+                            <button id="advanced-btn" class="button is-primary">
+                                   Advanced Search
+                            </button>
+                            
+                            <button id="reset-btn" class="button is-primary">
+                                    Reset Search
+                             </button>
+                        </div>                           
+                    </div>
+                    
+                </div>
+            </div>
+        
+        </div>
+        <div class="level-item">
+            
+                <div class="advanced" id="checkboxes" style="display: none;">
+                        <p>
+                                You need to type input and choose button that appear from advanced search.
+                            </p>
+                        
+                        <button id="gender-btn" class="button is-primary">
+                                Gender
+                            </button>
+                        <button id="position-btn" class="button is-primary">
+                                   Position
+                        </button>
+                        <button id="number-btn" class="button is-primary">
+                                Number
+                            </button>
+                        <button id="country-btn" class="button is-primary">
+                                   Country
+                        </button>
+                    </div>
+    
+        </div>
+        <table class="table table-striped">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Lastname</th>
+                <th>Gender</th>
+                <th>Position</th>
+                <th>Number</th>
+                <th>Country</th>
+              </tr>
+            </thead>
+            <tbody id ="table-item">
+            </tbody>
+        </table>
+    <div class="bottom">
+        <h2>Reference</h2>
+        <div class="link">
+            <a href="https://www.manutd.com/en/players-and-staff"> Manchester United Webpage</a>
+        </div>
+        <h3>Harirak Vongmahasiri 5810451144</h3> 
+    </div>        
+    
+    
+    
+    </section>
+    
+    <script src="jquery-3.3.1.min.js"></script>
+    <script src="myscript.js"></script>
+</body>
+</html>
